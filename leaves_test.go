@@ -5,10 +5,6 @@ import (
 	"os"
 	"path/filepath"
 	"testing"
-
-	"github.com/DevClusterRu/leaves/mat"
-	"github.com/DevClusterRu/leaves/transformation"
-	"github.com/DevClusterRu/leaves/util"
 )
 
 func isFileExists(filename string) bool {
